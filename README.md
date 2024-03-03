@@ -6,5 +6,6 @@
 ### 2.2. Custom URL Tooltip page - if mouse is hovered over URL table, it will display the newest URL information.
 ### 2.3. TLD Drillthrough page - showing specific information only about the selected TLD.
 ### Since github won't display a preview of this file, I am also attaching **Dashboard Prieview.png** to show the end result in an image.
+## Additional Files directory has the following files:
 ## **Urls.csv** is the generated up-to-date URL information file, containing only the most relevant data of each URL.
 ## All remaining files are only here to properly load the Power BI Dashboards.
